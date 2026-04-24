@@ -1,0 +1,67 @@
+#EXTM3U
+
+############################
+# COLOMBIA
+############################
+#EXTINF:-1 group-title="Colombia", Canal Institucional
+https://live.presidencia.gov.co/live.m3u8
+
+#EXTINF:-1 group-title="Colombia", Señal Colombia
+https://rtvc.gov.co/live/senalcolombia.m3u8
+
+#EXTINF:-1 group-title="Colombia", Canal Congreso
+https://stream.rtvc.gov.co/congreso.m3u8
+
+############################
+# MEXICO
+############################
+#EXTINF:-1 group-title="Mexico", Canal Once
+https://live.once.mx/stream.m3u8
+
+#EXTINF:-1 group-title="Mexico", Canal 22
+https://canal22-live.cdn.m3u8
+
+#EXTINF:-1 group-title="Mexico", TV UNAM
+https://tvunam-live.m3u8
+
+############################
+# ESPAÑA
+############################
+#EXTINF:-1 group-title="España", RTVE 24H
+https://rtve-live.rtve.es/24h.m3u8
+
+#EXTINF:-1 group-title="España", La 1 Internacional
+https://rtve-live.rtve.es/la1int.m3u8
+
+############################
+# USA ESPAÑOL
+############################
+#EXTINF:-1 group-title="USA Español", Noticias Telemundo
+https://telemundo-news-live.m3u8
+
+#EXTINF:-1 group-title="USA Español", Estrella News
+https://estrella-live.m3u8
+
+############################
+# NOTICIAS
+############################
+#EXTINF:-1 group-title="Noticias", CNN en Español
+https://cnn-espanol-live.m3u8
+
+#EXTINF:-1 group-title="Noticias", France 24 Español
+https://france24-es-live.m3u8
+
+#EXTINF:-1 group-title="Noticias", DW Español
+https://dw-es-live.m3u8
+
+############################
+# PELICULAS GRATIS
+############################
+#EXTINF:-1 group-title="Películas", Pluto Cine Acción
+https://pluto.tv/live-tv/cine-accion.m3u8
+
+#EXTINF:-1 group-title="Películas", Pluto Cine Estelar
+https://pluto.tv/live-tv/cine-estelar.m3u8
+
+#EXTINF:-1 group-title="Películas", Runtime Movies
+https://runtime-movies-live.m3u8
